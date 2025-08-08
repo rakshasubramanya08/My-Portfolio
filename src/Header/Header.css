@@ -1,0 +1,17 @@
+.head1{
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px 10px 10px 70px;
+   
+}
+.name1{
+    margin-left: 40%;
+    margin-right: 10%;
+}
+.containor1{
+    border: 2px solid black;
+    height: 95vh;
+    width: 90vw;
+    margin-left: 50px;
+}
