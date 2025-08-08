@@ -4,7 +4,6 @@ import './Header.css';
 const Header = () => {
   return (
     <>
-    <div className="containor1">
     <div className='head1'>
         <div className='name1'>
             <h1>Raksha Bidadi Ravishankar</h1>
@@ -12,10 +11,8 @@ const Header = () => {
         </div>
         <div className="icon">
             <img src='src/assets/girl icon.gif' alt='icon' width="180px" height="170px"/>
-        </div>
-     
-    </div>
-    </div>
+        </div>   
+    </div> 
     </>
   )
 }
