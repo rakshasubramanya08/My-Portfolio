@@ -11,7 +11,7 @@ const Header = () => {
             <h3>Frontend Developer</h3>
         </div>
         <div className="icon">
-            <img src='src/assets/girl icon.gif' alt='icon' width="180px" height="160px"/>
+            <img src='src/assets/girl icon.gif' alt='icon' width="180px" height="170px"/>
         </div>
      
     </div>
