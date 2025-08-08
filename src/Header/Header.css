@@ -1,18 +1,48 @@
 
 .head1{  
     display: flex;    
-    margin-left: 15%;   
-    height: 80px; 
+    margin-left: 10px;   
+    height: 150px;
 }
 
 .name1{ 
     border-radius: 180px 10px 10px 180px;
     height: 15vh;
     width: 100vh;
-    margin-left: 10%;
+    margin-left: 10px;
     margin-top: 13px;
     text-align: center;
     background-color: #f0a9c4;
 }
 
+.leftInfo{
+    border-radius: 10px 180px 180px 10px;
+     margin-top: 13px;
+     height: 15vh;
+     width: 200px;
+     background-color: #f0a9c4;
+     
+}
+.leftlist{
+    list-style: none;    
+}
+.leftlist>li{
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    padding: 5px;  
+    cursor: pointer;
+}
+
+.body1{
+    background-image: linear-gradient(pink,white,rgb(233, 186, 193));
+    height: 75vh;
+    margin-left: 10px;   
+    margin-right: 10px;
+
+}
+.image{
+    display: flex;
+    justify-content: center;
    
+}
