@@ -44,5 +44,8 @@
 .image{
     display: flex;
     justify-content: center;
-   
+}
+.image>img{
+    border: 6px solid palevioletred;  
+
 }
